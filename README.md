@@ -8,4 +8,4 @@ I work on embedded systems: firmware, microcontrollers, RTOS, device drivers, an
 - Co-op @ L3Harris
 
 **Into**
-- Embedded C/C++ · RTOS · device drivers · BSP · bare-metal
+- Embedded C/C++ · RTOS · device drivers · bare-metal
